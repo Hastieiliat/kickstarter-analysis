@@ -24,7 +24,7 @@ The timeline, goal budget and pledged in different countries and different outco
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-In 2015 is the largest outcomes that we get and between 2009 and 2015; the outcomes were increased but after 2015 it was decreased suddenly. 
+In May  for Theater outcomes, we have the highest successful range but in December we have the lowest one. Between September and November we do not have any cancelation. 
 ![image](https://user-images.githubusercontent.com/100230706/156865368-0a6f24cc-9fe5-420a-802a-7b873ae9833b.png)
 
 
