@@ -25,7 +25,8 @@ The timeline, goal budget and pledged in different countries and different outco
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 In 2015 is the largest outcomes that we get and between 2009 and 2015; the outcomes were increased but after 2015 it was decreased suddenly. 
-![outcome Based on Launch Date](https://user-images.githubusercontent.com/100230706/155865078-f38720da-8d18-4812-a42d-c73c03c88b40.png)
+![image](https://user-images.githubusercontent.com/100230706/156865368-0a6f24cc-9fe5-420a-802a-7b873ae9833b.png)
+
 
 
 - What can you conclude about the Outcomes based on Goals?
